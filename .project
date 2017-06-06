@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FreeRTOS_Wrapper</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+		<nature>fr.ac6.mcu.ide.core.MCUProjectNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>RTOS_Wrapper/RTOS_Software_Timer.cpp</name>
+			<type>1</type>
+			<location>C:/Users/Mateusz/Qsync/Projekty/Shared_Workspace/FreeRTOS_Wrapper/RTOS_Wrapper/RTOS_Software_Timer.cpp</location>
+		</link>
+		<link>
+			<name>RTOS_Wrapper/RTOS_Software_Timer.hpp</name>
+			<type>1</type>
+			<location>C:/Users/Mateusz/Qsync/Projekty/Shared_Workspace/FreeRTOS_Wrapper/RTOS_Wrapper/RTOS_Software_Timer.hpp</location>
+		</link>
+	</linkedResources>
+</projectDescription>
